@@ -1,0 +1,33 @@
+{
+  "name": "@syntro-opensource/eslint-config-base",
+  "version": "1.0.0",
+  "description": "A reusable eslint-config standard ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntro-opensource/eslint-config-base.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "shared",
+    "syntro"
+  ],
+  "author": "Syntro GmbH",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/syntro-opensource/eslint-config-base/issues"
+  },
+  "homepage": "https://github.com/syntro-opensource/eslint-config-base#readme",
+  "dependencies": {
+    "eslint": "^7.8.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0"
+  }
+}
