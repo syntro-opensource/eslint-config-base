@@ -14,8 +14,8 @@ npm i @syntro-opensource/eslint-config-base
 
 ## Usage
 
-to make use of this config, create a `.eslintrc` file next to your
-bundle containing:
+to make use of this config, create a `.eslintrc.js` file in your package
+containing:
 ```js
 {
     "extends": "@syntro-opensource/eslint-config-base"
