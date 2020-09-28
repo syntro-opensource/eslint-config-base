@@ -2,6 +2,10 @@
 
 ## [Unreleased](https://github.com/syntro-opensource/eslint-config-base/tree/HEAD)
 
+**🍰Enhancements:**
+
+- Add Auto release action [\#12](https://github.com/syntro-opensource/eslint-config-base/pull/12)
+
 **🕸Dependencies:**
 
 - Build\(deps\): bump eslint from 7.9.0 to 7.10.0 [\#11](https://github.com/syntro-opensource/eslint-config-base/pull/11)
