@@ -8,6 +8,7 @@
 
 **🕸Dependencies:**
 
+- Bump eslint-plugin-react from 7.21.4 to 7.21.5 [\#16](https://github.com/syntro-opensource/eslint-config-base/pull/16)
 - Build\(deps\): bump eslint-plugin-react from 7.21.2 to 7.21.4 [\#15](https://github.com/syntro-opensource/eslint-config-base/pull/15)
 - Build\(deps\): bump eslint from 7.10.0 to 7.11.0 [\#14](https://github.com/syntro-opensource/eslint-config-base/pull/14)
 - Build\(deps\): bump eslint from 7.9.0 to 7.10.0 [\#11](https://github.com/syntro-opensource/eslint-config-base/pull/11)
