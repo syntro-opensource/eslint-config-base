@@ -8,6 +8,7 @@
 
 **🕸Dependencies:**
 
+- Build\(deps\): bump eslint from 7.12.1 to 7.13.0 [\#24](https://github.com/syntro-opensource/eslint-config-base/pull/24)
 - Bump: update eslint-plugin-jsx-a11y from 6.3.1 to 6.4.1 [\#21](https://github.com/syntro-opensource/eslint-config-base/pull/21)
 - Bump: update eslint from 7.11.0 to 7.12.1 [\#20](https://github.com/syntro-opensource/eslint-config-base/pull/20)
 - Bump: update eslint-plugin-react-hooks from 4.1.2 to 4.2.0 [\#17](https://github.com/syntro-opensource/eslint-config-base/pull/17)
