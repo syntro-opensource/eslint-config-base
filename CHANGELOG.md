@@ -29,12 +29,12 @@
 
 - Build\(deps\): bump eslint-plugin-react-hooks from 4.1.1 to 4.1.2 [\#5](https://github.com/syntro-opensource/eslint-config-base/pull/5)
 - Build\(deps\): bump eslint from 7.8.1 to 7.9.0 [\#4](https://github.com/syntro-opensource/eslint-config-base/pull/4)
+- Build\(deps\): bump eslint-plugin-react-hooks from 4.1.0 to 4.1.1 [\#2](https://github.com/syntro-opensource/eslint-config-base/pull/2)
 
 ## [1.0.1](https://github.com/syntro-opensource/eslint-config-base/tree/1.0.1) (2020-09-11)
 
 **🕸Dependencies:**
 
-- Build\(deps\): bump eslint-plugin-react-hooks from 4.1.0 to 4.1.1 [\#2](https://github.com/syntro-opensource/eslint-config-base/pull/2)
 - Build\(deps\): bump eslint from 7.8.0 to 7.8.1 [\#1](https://github.com/syntro-opensource/eslint-config-base/pull/1)
 
 ## [1.0.0](https://github.com/syntro-opensource/eslint-config-base/tree/1.0.0) (2020-09-01)
