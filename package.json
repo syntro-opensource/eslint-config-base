@@ -1,10 +1,10 @@
 {
   "name": "@syntro-opensource/eslint-config-base",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A reusable eslint-config standard ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "preversion": "git fetch",
     "version": "git-chglog -o CHANGELOG.md --next-tag $npm_config_next && git add -A",
     "postversion": "git add -A",
