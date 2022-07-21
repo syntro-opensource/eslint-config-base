@@ -2,6 +2,15 @@
 ## [Unreleased]
 
 
+<a name="1.1.1"></a>
+## [1.1.1] - 2022-07-21
+### 🧬 Dependencies
+- eslint-config-airbnb from 18.2.1 to 19.0.4 ([#76](https://github.com/syntro-opensource/eslint-config-base/issues/76))
+- eslint-plugin-react-hooks from 4.5.0 to 4.6.0 ([#77](https://github.com/syntro-opensource/eslint-config-base/issues/77))
+- eslint-plugin-react from 7.30.0 to 7.30.1 ([#78](https://github.com/syntro-opensource/eslint-config-base/issues/78))
+- eslint-plugin-jsx-a11y from 6.5.1 to 6.6.0 ([#79](https://github.com/syntro-opensource/eslint-config-base/issues/79))
+
+
 <a name="1.1.0"></a>
 ## [1.1.0] - 2022-06-03
 ### 🔧 Changed
@@ -29,7 +38,8 @@
 <a name="1.0.0"></a>
 ## 1.0.0 - 2020-09-01
 
-[Unreleased]: https://github.com/syntro-opensource/eslint-config-base/compare/1.1.0...HEAD
+[Unreleased]: https://github.com/syntro-opensource/eslint-config-base/compare/1.1.1...HEAD
+[1.1.1]: https://github.com/syntro-opensource/eslint-config-base/compare/1.1.0...1.1.1
 [1.1.0]: https://github.com/syntro-opensource/eslint-config-base/compare/1.0.2...1.1.0
 [1.0.2]: https://github.com/syntro-opensource/eslint-config-base/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/syntro-opensource/eslint-config-base/compare/1.0.0...1.0.1
