@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/syntro-opensource/eslint-config-base#readme",
   "dependencies": {
-    "eslint": "^7.8.0",
+    "eslint": "^8.21.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
